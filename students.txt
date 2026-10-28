@@ -1,0 +1,10 @@
+101 Rahul 85.50
+102 Amit 78.00
+103 Priya 92.50
+104 Sneha 88.00
+105 Rohan 74.50
+106 Neha 95.00
+107 Karan 81.00
+108 Pooja 89.50
+109 Arjun 67.00
+110 Meera 91.00
